@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>git_commands</title>
-</head>
-<body>
-    <script>
-        // Comandos Básicos do JavaScript
-        // Basic Commands for JavaScript
-
-        // Variáveis e Tipos de Dados / Variables and Data Types
-        var numero = a; // Número inteiro / Integer
-        let texto = "Oi, Hello"; // String / String
-        const pi = 3.14; // Constante / Constant
-        console.log("Olá, Mundo! / Hello, World!"); // Exibe uma mensagem no console / Displays a message in the console
-        alert("Bem-vindo ao JavaScript! / Welcome to JavaScript!"); // Exibe um alerta na tela / Displays an alert on the screen
-    </script>
-</body>
-</html>
+// Comandos Básicos do JavaScript
+// Basic Commands for JavaScript
+//
+// Variáveis e Tipos de Dados / Variables and Data Types
+var numero = a; // Número inteiro / Integer
+let texto = "Oi, Hello"; // String / String
+const pi = 3.14; // Constante / Constant
+console.log("Olá, Mundo! / Hello, World!"); // Exibe uma mensagem no console / Displays a message in the console
+alert("Bem-vindo ao JavaScript! / Welcome to JavaScript!"); // Exibe um alerta na tela / Displays an alert on the screen
