@@ -14,7 +14,7 @@ forma.
 - C/C++ ❌
 - PYTHON ❌
 - JAVASCRIPT ❌
-
+|
 - GIT 🧩
 
 *Legenda: ❌ - Sem dados (ainda) | 🧩 - Em atualização | ✅ - Finalizado*
@@ -36,7 +36,7 @@ possible way.
 - C/C++ ❌
 - PYTHON ❌
 - JAVASCRIPT ❌
-
+|
 - GIT 🧩
 
 *Caption: ❌ - No data (yet) | 🧩 - Updating | ✅ - Completed*

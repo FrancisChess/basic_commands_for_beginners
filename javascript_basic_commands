@@ -9,12 +9,12 @@
         // Comandos Básicos do JavaScript
         // Basic Commands for JavaScript
 
-        // Variáveis e Tipos de Dados
-        var numero = a; // Número inteiro
-        let texto = "Hello"; // String
-        const pi = 3.14; // Constante
-        console.log("Olá, Mundo!"); // Exibe uma mensagem no console
-        alert("Bem-vindo ao JavaScript!"); // Exibe um alerta na tela
+        // Variáveis e Tipos de Dados / Variables and Data Types
+        var numero = a; // Número inteiro / Integer
+        let texto = "Oi, Hello"; // String / String
+        const pi = 3.14; // Constante / Constant
+        console.log("Olá, Mundo! / Hello, World!"); // Exibe uma mensagem no console / Displays a message in the console
+        alert("Bem-vindo ao JavaScript! / Welcome to JavaScript!"); // Exibe um alerta na tela / Displays an alert on the screen
     </script>
 </body>
 </html>
