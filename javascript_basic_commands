@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>git_commands</title>
+</head>
+<body>
+    <script>
+        // Comandos Básicos do JavaScript
+        // Basic Commands for JavaScript
+
+        // Variáveis e Tipos de Dados
+        var numero = a; // Número inteiro
+        let texto = "Hello"; // String
+        const pi = 3.14; // Constante
+        console.log("Olá, Mundo!"); // Exibe uma mensagem no console
+        alert("Bem-vindo ao JavaScript!"); // Exibe um alerta na tela
+    </script>
+</body>
+</html>

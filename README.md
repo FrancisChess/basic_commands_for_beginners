@@ -10,14 +10,15 @@ forma.
 - C# ❌
 - PHP ❌
 - HTML 🧩
-- JAVA 🧩
+- JAVA ❌
 - C/C++ ❌
 - PYTHON ❌
 - JAVASCRIPT ❌
--------------------
+
 - GIT 🧩
 
 *Legenda: ❌ - Sem dados (ainda) | 🧩 - Em atualização | ✅ - Finalizado*
+- -------------------
 
 This repository was created by Francisco Diogo de Medeiros (Francis) to help ECT students at UFRN and
 other students just starting out in programming. This file contains some basic (and future
@@ -31,11 +32,11 @@ possible way.
 - C# ❌
 - PHP ❌
 - HTML 🧩
-- JAVA 🧩
+- JAVA ❌
 - C/C++ ❌
 - PYTHON ❌
 - JAVASCRIPT ❌
--------------------
+
 - GIT 🧩
 
 *Caption: ❌ - No data (yet) | 🧩 - Updating | ✅ - Completed*
