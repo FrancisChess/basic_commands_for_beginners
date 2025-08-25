@@ -11,13 +11,13 @@
 //
 //  First, we will start with some basic commands like variables, data types, and functions.
 //  Then, we will explore control structures, array manipulation, objects, and much more!
-
+// --------------------------------------------------------------
 // Variáveis e Tipos de Dados / Variables and Data Types
 var numero = a; // Número inteiro / Integer
 let texto = "Oi, Hello"; // String / String
 const pi = 3.14; // Constante / Constant
 
-// No JS temos três formas de declarar variáveis: var, let e const.
+// No JS temos três formas de declarar variáveis: "var", "let" e "const".
 //
 // - Var: É a forma mais antiga e tem escopo de função. Ela atua em todo o código, os dados dela
 // ficam gravados na memória durante a execução do código e pode ser alterada durante sua execução.
@@ -25,6 +25,19 @@ const pi = 3.14; // Constante / Constant
 // - Let: tem escopo de bloco. Ela só atua dentro do bloco onde foi declarada, ou seja, se for
 // declarada dentro de uma função, só atuará dentro dessa função. Ela também pode ser alterada
 // durante a execução do código, mas não fica gravada na memória.
-
-console.log("Olá, Mundo! / Hello, World!"); // Exibe uma mensagem no console / Displays a message in the console
-alert("Bem-vindo ao JavaScript! / Welcome to JavaScript!"); // Exibe um alerta na tela / Displays an alert on the screen
+//
+// - Const: também tem escopo de bloco, mas é uma constante, ou seja, não pode ser alterada
+// durante a execução do código. Ela é usada para valores que não mudam, como pi (3.14).
+// --------------------------------------------------------------
+// In JS we have three ways to declare variables: "var", "let", and "const".
+//
+// - Var: It is the oldest way and has function scope. It acts throughout the code, its data
+// is stored in memory during code execution and can be changed during its execution.
+//
+// - Let: has block scope. It only acts within the block where it was declared, that is, if it is
+// declared inside a function, it will only act within that function. It can also be changed
+// during code execution, but it is not stored in memory.
+//
+// - Const: also has block scope, but it is a constant, that is, it cannot be changed
+// during code execution. It is used for values that do not change, like pi (3.14).
+// --------------------------------------------------------------
