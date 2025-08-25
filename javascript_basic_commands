@@ -1,9 +1,30 @@
-// Comandos Básicos do JavaScript
-// Basic Commands for JavaScript
+//  Bem vindo aos comandos básicos para iniciantes em JavaScript! 
+
+//  Aqui estão uma lista de vários comandos e suas funcionalidades:
+
+//  Primeiramente, começaremos com alguns comandos básicos como variáveis, tipos de dados e funções.
+//  Depois, exploraremos estruturas de controle, manipulação de arrays, objetos, e muito mais!
+// --------------------------------------------------------------
+//  Welcome to the basic commands for beginners in JavaScript!
 //
+//  Here is a list of various commands and their functionalities:
+//
+//  First, we will start with some basic commands like variables, data types, and functions.
+//  Then, we will explore control structures, array manipulation, objects, and much more!
+
 // Variáveis e Tipos de Dados / Variables and Data Types
 var numero = a; // Número inteiro / Integer
 let texto = "Oi, Hello"; // String / String
 const pi = 3.14; // Constante / Constant
+
+// No JS temos três formas de declarar variáveis: var, let e const.
+//
+// - Var: É a forma mais antiga e tem escopo de função. Ela atua em todo o código, os dados dela
+// ficam gravados na memória durante a execução do código e pode ser alterada durante sua execução.
+//
+// - Let: tem escopo de bloco. Ela só atua dentro do bloco onde foi declarada, ou seja, se for
+// declarada dentro de uma função, só atuará dentro dessa função. Ela também pode ser alterada
+// durante a execução do código, mas não fica gravada na memória.
+
 console.log("Olá, Mundo! / Hello, World!"); // Exibe uma mensagem no console / Displays a message in the console
 alert("Bem-vindo ao JavaScript! / Welcome to JavaScript!"); // Exibe um alerta na tela / Displays an alert on the screen

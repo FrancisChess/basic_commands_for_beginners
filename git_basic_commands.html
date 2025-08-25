@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>git_commands</title>
+</head>
+<body>
+<h1>Comandos Básicos do Git</h1>
+<!-- Basic Commands for Git -->
+<p>Este documento contém uma lista de comandos básicos do git úteis para iniciantes.</p>
+<!--This document contains a list of basic git commands useful for beginners. -->
+<ol type="1">
+    <dt><li>mkdir [nome_pasta]</li>criar uma pasta</dt>
+    <dt><li>ls</li>Apresenta os diretorios (pastas)</dt><br>
+    <dt><li>git init</li>Inicializa um repositório</dt><br>
+    <dt><li>cd ..</li>Sai da pasta</dt><br>
+    <dt><li>cd "nome_da_pasta"</li>Entra em uma pasta/documento/diretório</dt><br>
+    <dt><li>ls -lf</li>Apresenta arquivos ocultos</dt><br>
+    <dt><li>ls "nome_arquivo/pasta"</li>Apresenta arquivos em uma pasta</dt><br>
+    <dt><li>touch "nome_arquivo"</li>Cria um arquivo vazio</dt><br>
+    <dt><li>git status</li>Apresenta o status do repositório</dt><br>
+    <dt><li>git add "nome_arquivo"</li>Para enviar arquivos para um commit</dt><br>
+    <dt><li>git restore "nome_arquivo"</li>Para restaurar uma versão</dt><br>
+    <dt><li>git diff</li>Apresenta as mudanças</dt><br>
+    <dt><li>git commit -m "Mensagem"</li>Confirma a modificação dos arquivos</dt><br>
+    <dt><li>git log</li>Observar os commits realizados no projeto</dt><br>
+    <dt><li>git clone "link_github"</li>Para clonar o projeto do GitHub na pasta selecionada</dt><br>
+    <dt><li>git log --oneline --all</li>Versão simplificada do log</dt><br>
+    <dt><li>code .</li>Abre o VSCode</dt><br>
+    <dt><li>git push origin master</li>Envia as atualizações para o repositório remoto (origin) na branch master</dt><br>
+    <dt><li>git pull origin master</li>Recebe as atualizações do repositório remoto (origin) na branch master</dt><br>
+    <dt><li>git branch "nome_branch"</li>Cria uma branch</dt><br>
+    <dt><li>git branch</li>Mostra as branches</dt><br>
+    <dt><li>git checkout "nome_branch"</li>Vai para outra branch</dt><br>
+    <dt><li>git checkout -b "nome_branch"</li>Cria uma branch e já muda para a branch criada</dt><br>
+    <dt><li>git merge "nome_branch"</li>Faz com que mescle as modificações de uma branch na branch atual</dt><br>
+    <dt><li>git restore</li>Restaura os últimos arquivos não commitados</dt><br>
+    <dt><li>git reset --soft "commitId"</li>Volta para o estágio antes do commit</dt><br>
+    <dt><li>git reset --mixed "commitId"</li>Volta os itens antes do staged (antes do git add)</dt><br>
+    <dt><li>git reset --hard "commitId"</li>Volta para os antigos arquivos e apaga as alterações realizadas</dt><br>
+    <dt><li>git restore --staged "fileName"</li>Retira o arquivo do staged</dt><br>
+    <dt><li>git commit --amend -m "mensagem"</li>Junta o commit com o commit anterior</dt><br>
+    <dt><li>clear</li>Limpa o bash</dt>
+</ol>
+<!-- mkdir [folder_name] - create a folder
+    ls - display directories (folders)
+    git init - initialize a repository
+    cd .. - exit a folder
+    cd [folder_name] - enter a folder
+    ls -lf - display hidden files
+    ls [file/folder_name] - display files in a folder
+    touch [file_name] - create an empty file
+    git status - display the repository status
+    git add [file_name] - to commit files
+    it restore [file_name] - to restore a version
+    git diff - display changes
+    git commit -m [Message] - confirms file modifications
+    git log - observes commits made to the project
+    git clone [github_link] - clones the GitHub project to the selected folder
+    git log --oneline --all - simplified version of the log
+    code. - Open VS Code
+    git push origin (where the push will be made; origin = Git repository) master (what will be pushed; master = your local repository)
+    git pull origin master - Receives updates from the repository
+    git branch [branch_name] - Creates a branch
+    git branch - Shows the branches
+    git checkout [branch_name] - Goes to another branch
+    git checkout -b [branch_name] - Also creates a branch, but switches to the created branch
+    git merge [branch_name] - Merges the changes from a branch into the current branch
+    git restore - Restores the last uncommitted files
+    git reset --soft [commitId] - Returns to the stage before the commit
+    git reset --mixer [commitId] - Returns to the items before the stage (before git add)
+    git reset --hard [commitId] - Returns to the old files and erases the changes made
+    git restore --staged [fileName] - Removes the file from the staged stage
+    git commit --amend -m [message] - Merges the commit with the previous commit 
+    clear - clear
+-->
+<!-- Como fazer um commit / How to make a commit
+    1. "git init" (inicializa o repositório / initializes the repository)
+    2. "git add ." (adiciona todos os arquivos / adds all files)
+    3. "git commit -m" "mensagem" (faz o commit / makes the commit)
+    4. "git remote add origin" "link_do_repositório" (adiciona o repositório remoto / adds the remote repository)
+    5. "git push -u origin master" (envia os arquivos para o repositório remoto / sends the files to the remote repository)
+-->
+<!-- Como fazer loguin no github / How to log in to github
+    1. git config --global user.name "seu_nome_de_usuário" (configura o nome de usuário / sets the username)
+    2. git config --global user.email "seu_email" (configura o email / sets the email)
+    3. git config --global credential.helper cache (configura o cache de credenciais / sets the credential cache)
+    4. git config --global credential.helper 'cache --timeout=3600' (configura o tempo do cache em segundos / sets the cache time in seconds)
+    5. git config --list (verifica as configurações / checks the configurations)
+-->
+</body>
+</html>
