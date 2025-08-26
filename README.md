@@ -1,3 +1,5 @@
+Basic Commands for Beginners
+- -------------------
 Este repositório foi criando por Francisco Diogo de Medeiros (Francis) com o intuito de ajudar os estudantes de ECT da UFRN e
 demais alunos que estejam iniciando na programação. Esse arquivo conta com alguns comandos básicos (e futuramente
 avançados) e suas funcionalidades. Este repositório será atualizado com o passar do tempo com novos códigos que forem sendo
@@ -16,6 +18,7 @@ forma.
 - JAVASCRIPT ❌
 - -------------------
 - GIT 🧩
+- -------------------
 
 *Legenda: ❌ - Sem dados (ainda) | 🧩 - Em atualização | ✅ - Finalizado*
 - -------------------
@@ -38,5 +41,6 @@ possible way.
 - JAVASCRIPT ❌
 - -------------------
 - GIT 🧩
+- -------------------
 
 *Caption: ❌ - No data (yet) | 🧩 - Updating | ✅ - Completed*
