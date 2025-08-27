@@ -8,7 +8,7 @@ acrescentar no desenvolvimento do máximo de pessoas possíveis. Espero poder aj
 forma.
 <br>
 *Linguagens Inclusas:*
-
+<br>
 - C# ❌
 - PHP ❌
 - HTML 🧩
@@ -29,7 +29,7 @@ contribute to the development of as many people as possible. I hope to be able t
 possible way.
 <br>
 *Included Languages:*
-
+<br>
 - C# ❌
 - PHP ❌
 - HTML 🧩
