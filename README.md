@@ -1,4 +1,4 @@
-Basic Commands for Beginners
+<h1>Basic Commands for Beginners</h1>
 - -------------------
 Este repositório foi criando por Francisco Diogo de Medeiros (Francis) com o intuito de ajudar os estudantes de ECT da UFRN e
 demais alunos que estejam iniciando na programação. Esse arquivo conta com alguns comandos básicos (e futuramente
