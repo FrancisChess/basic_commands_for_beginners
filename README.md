@@ -9,15 +9,19 @@ forma.
 <br>
 *Linguagens Inclusas:*
 <br>
-- C# ❌
-- PHP ❌
-- HTML 🧩
-- JAVA 🧩
-- C/C++ ❌
-- PYTHON ❌
-- JAVASCRIPT ❌
+<ol type="I">
+    <li>C# ❌</li>
+    <li>PHP ❌</li>
+    <li>HTML 🧩</li>
+    <li>JAVA 🧩</li>
+    <li>C/C++ ❌</li>
+    <li>PYTHON ❌</li>
+    <li>JAVASCRIPT ❌</li>
+</ol>
 <hr>
-- GIT 🧩
+<ol type="I">
+    <li>GIT 🧩</li>
+</ol>
 <hr>
 *Legenda: ❌ - Sem dados (ainda) | 🧩 - Em atualização | ✅ - Finalizado*
 <hr>
@@ -30,15 +34,19 @@ possible way.
 <br>
 *Included Languages:*
 <br>
-- C# ❌
-- PHP ❌
-- HTML 🧩
-- JAVA 🧩
-- C/C++ ❌
-- PYTHON ❌
-- JAVASCRIPT ❌
+<ol type="I">
+    <li>C# ❌</li>
+    <li>PHP ❌</li>
+    <li>HTML 🧩</li>
+    <li>JAVA 🧩</li>
+    <li>C/C++ ❌</li>
+    <li>PYTHON ❌</li>
+    <li>JAVASCRIPT ❌</li>
+</ol>
 <hr>
-- GIT 🧩
+<ol type="I">
+    <li>GIT 🧩</li>
+</ol>
 <hr>
 
 *Caption: ❌ - No data (yet) | 🧩 - Updating | ✅ - Completed*
