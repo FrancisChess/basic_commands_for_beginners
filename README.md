@@ -7,10 +7,9 @@
     acrescentar no desenvolvimento do máximo de pessoas possíveis. Espero poder ajudar os leitores deste repositório da melhor
     forma.
 </p>
-<br>
 <h4>*Linguagens Inclusas:*</h4>
 <br>
-<ol type="I">
+<ol>
     <li>C# ❌</li>
     <li>PHP ❌</li>
     <li>HTML 🧩</li>
@@ -20,7 +19,7 @@
     <li>JAVASCRIPT ❌</li>
 </ol>
 <hr>
-<ol type="I">
+<ol>
     <li>GIT 🧩</li>
 </ol>
 <hr>
@@ -34,7 +33,6 @@
     contribute to the development of as many people as possible. I hope to be able to help the readers of this repository in the best
     possible way.
 </p>
-<br>
 <h4>*Included Languages:*</h4>
 <br>
 <ol type="I">
